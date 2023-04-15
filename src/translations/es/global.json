@@ -1,0 +1,10 @@
+{
+  "navbar": {
+    "home": "INICIO",
+    "about": "ACERCA DE MI",
+    "skills": "HABILIDADES",
+    "projects": "PROYECTOS",
+    "contact": "CONTACTO",
+    "language": "IDIOMA"
+  }
+}
