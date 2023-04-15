@@ -39,10 +39,13 @@ export default function BasicSlider() {
       <Overlay>
       <NavBar/>
         <Wrapper>
-          <Title>Basic Setup</Title>
+          <Title>INVIERTE EN TU FUTURO</Title>
           <Subtitle>
-            Check out the documentation for more advanced examples.
+            Tenemos los mejores proyectos de la Riviera Maya
           </Subtitle>
+          
+            <h6>Contactanos para darte una atención personalida</h6>
+         
         </Wrapper>
       </Overlay>
 
